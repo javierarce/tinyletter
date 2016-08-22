@@ -57,4 +57,6 @@ If the newsletter has enabled its archives, that will output:
 }
 ```
 
-Not associated with [TinyLetter](https://www.tinyletter.com) in any way.
+### License
+
+This work is licensed under the [MIT License (MIT)](LICENSE) and it is not associated with [TinyLetter](https://www.tinyletter.com) in any way.
