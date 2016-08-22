@@ -56,3 +56,5 @@ If the newsletter has enabled its archives, that will output:
   }]
 }
 ```
+
+Not associated with [TinyLetter](https://www.tinyletter.com) in any way.
